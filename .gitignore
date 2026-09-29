@@ -1,0 +1,7 @@
+/.work/
+/.mto-data/*
+!/.mto-data/.htaccess
+/uploads/galeria/*
+!/uploads/galeria/.htaccess
+/ACESSO-PROPRIETARIO.txt
+*.log
